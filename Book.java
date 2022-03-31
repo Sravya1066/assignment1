@@ -25,13 +25,13 @@ public class Book {
 	{
 		
 		
-		Book book1=new Book(2,'B','Basha');
-		book.Book();
-	
-		Book book1=new Book(2,'B','Basha');
+		Book book1=new Book(1,'A','Aasha');
 		book1.Book();
-		Book book2=new Book(3,'c','charan');
-		book2=Book();
+	
+		Book book2=new Book(2,'B','Basha');
+		book2.Book();
+		Book book3=new Book(3,'c','charan');
+		book3=Book();
 		
 		
 		
